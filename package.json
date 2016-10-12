@@ -18,9 +18,6 @@
     "mocha": "node_modules/.bin/mocha",
     "rimraf": "node_modules/.bin/rimraf"
   },
-  "engines": {
-    "node": "~4.1.1"
-  },
   "precommit.silent": true,
   "pre-commit": [
     "lint",
