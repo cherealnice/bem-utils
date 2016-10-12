@@ -7,7 +7,7 @@
   "homepage": "https://github.com/jozanza/bem-utils",
   "main": "lib/bem.js",
   "engines": {
-    "npm": "*"
+    "node": "*"
   },
   "scripts": {
     "test": "npm run -s mocha -- --reporter nyan --require mocha.config test/*.spec.js",
